@@ -6,3 +6,6 @@ Implementation & results:
 * Froze pre-trained model weights to fine-tune only the speculative decoding heads
 * Validates drafted sequences in a single forward pass instead of serial decoding steps
 * Achieves 1.4x wall-clock speedup on the TinyStories dataset with lossless accuracy
+
+
+(References cited in .py file)
