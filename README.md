@@ -1,5 +1,5 @@
-## Speculative Decoding Inference Engine
-A custom transformer implementation that accelerates LLM inference using blockwise parallel decoding.
+## Blockwise Parallel Decoding Transformer
+A transformer implementation that accelerates LLM inference using blockwise parallel decoding.
 
 Implementation & results:
 * Developed decoder transformer from scratch, with several heads to predict multiple future tokens simultaneously
